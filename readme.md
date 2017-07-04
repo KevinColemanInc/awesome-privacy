@@ -1,7 +1,7 @@
 # awesome-privacy [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-> Curated list of being private online
-
+> Curated list of being privacy tools, guides, and hidden things
+----
 ## Table of Contents
 - [Anonymous web browsing](#anonymous-web-browsing)
   * [VPN](#vpn)
@@ -21,6 +21,8 @@
   * [Burner electronics](#burner-electronics)
   * [Payment](#payment)
 - [Contribute](#contribute)
+
+----
 
 ## Anonymous web browsing
 Hide your IP address
@@ -96,6 +98,7 @@ Hide your IP address
 - [Localbitcoins](https://localbitcoins.com/) - anonymously purchase bitcoins with cash
 - [Bitcoin Core](https://bitcoin.org/en/download) - sending and receiving online bitcoin payments
 - [Bit Launderer](https://bitlaunder.com/) - launder bitcoins
+- [BTC Prepaid Credit Card](https://bitpay.com/card/) - Bitpay offers pre-paid credit cards with BTC
 
 ## Contribute
 
