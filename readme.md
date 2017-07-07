@@ -20,6 +20,7 @@
   * [Password managment](#password-managment)
   * [Burner electronics](#burner-electronics)
   * [Payment](#payment)
+- [File Hosting](#file-hosting)
 - [Contribute](#contribute)
 
 ----
@@ -47,6 +48,7 @@ Hide your IP address
 
 ## Search
 - [Duck Duck Go](https://duckduckgo.com) - search engine that doesn't track you
+- [ixquick](https://www.ixquick.com/) - the world's most private search engine
 - [Ahmia](https://ahmia.fi/) - Tor search engine
 - [Have I been pwnd?](https://haveibeenpwned.com/) - see if your email address has been found in a database hack
 
@@ -58,6 +60,7 @@ Hide your IP address
 - [User agent changer](https://chrome.google.com/webstore/detail/user-agent-switcher-for-c/djflhoibgkdhkhhcedjiklpkjnoahfmg?hl=en-US) - change user agent to prevent browser finger printing
 - [Privacy badger - EFF](https://www.eff.org/privacybadger) - block ads and other tracking services
 - [Https everywhere - EFF](https://www.eff.org/https-everywhere) - prefers encrypted sessions
+- [Click & clean](https://www.hotcleaner.com/clickclean_chrome.html) - private data cleaner for Chrome and Firefox
 
 ## Host file optimizations 
 - [How to make the internet not suck (as much)](http://someonewhocares.org/hosts/) - block domains at host file level for faster more private web browsing
@@ -78,12 +81,16 @@ Hide your IP address
 - [Telegram](https://telegram.org/) - heavily encrypted and self-destructing messages
 - [Signal](https://whispersystems.org/) - free peer reviewed scalable encryption chat
 
+### Video
+- [jitzi](https://jitsi.org/) - secure open source video conferencing 
+
 ### Email
 - [Nbox](https://nbox.notif.me/) - hide your email for signups
 - [Improvmx](http://improvmx.com/) - forward email from your own domain name (allows for uniq emails for each website you register)
 - [Yopmail](http://www.yopmail.com/en/email-generator.php) - temporary email
 - [Mailinator](https://www.mailinator.com/) - temporary email
 - [Throw Away Mail](http://www.throwawaymail.com/) - temporary email
+- [Proton mail](https://protonmail.com/) - secure email based in Switzerland
 
 ### Password managment
 - [LastPass](https://www.lastpass.com/) - password management
@@ -99,6 +106,14 @@ Hide your IP address
 - [Bitcoin Core](https://bitcoin.org/en/download) - sending and receiving online bitcoin payments
 - [Bit Launderer](https://bitlaunder.com/) - launder bitcoins
 - [BTC Prepaid Credit Card](https://bitpay.com/card/) - Bitpay offers pre-paid credit cards with BTC
+- [List of cryptocurrencies (wikipedia)](https://en.wikipedia.org/wiki/List_of_cryptocurrencies)
+- [Over the counter btc](https://bitcoin-otc.com/) - marketplace for people to conduct over-the-counter trading in bitcoin currency
+- [CoinJoin](https://en.bitcoin.it/wiki/CoinJoin) - bitcoin transaction compression which aims to improve privacy
+## File hosting
+### Backup
+  - [TeamDrive](https://www.teamdrive.com/en/) - cloud back up [certified](https://www.teamdrive.com/en/certification/) by the Independent Regional Centre for Data Protection of Schleswig-Holstein.
+  - [Tresorit](https://www.teamdrive.com/en/) - cloud back up protected by Swiss data protection laws (but hosted on Microsoft Azure) with client side encryption
+  - [SpiderOak](https://www.teamdrive.com/en/) - cloud back up with client side decryption only.
 
 ## Contribute
 
