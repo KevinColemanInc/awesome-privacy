@@ -2,7 +2,7 @@
 
 > Curated list of privacy tools, guides, and hidden things
 ----
-## Table of Contents
+## Contents
 - [Anonymous web browsing](#anonymous-web-browsing)
   * [VPN](#vpn)
   * [Tor network](#tor-network)
