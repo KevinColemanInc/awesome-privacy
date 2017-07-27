@@ -27,7 +27,7 @@
 
 ## Anonymous web browsing
 Hide your IP address
-  
+
 ### VPN
 - [VPN comparison](https://thatoneprivacysite.net/simple-vpn-comparison-chart/) - comprehensive tool for comparing VPN services
 - [Docker AWS VPN](https://gist.github.com/glennschler/63e3c3f93038cddb5204) - guide for self hosting VPN on AWS with docker
