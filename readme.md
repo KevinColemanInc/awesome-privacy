@@ -62,6 +62,7 @@ Hide your IP address
 - [Privacy badger - EFF](https://www.eff.org/privacybadger) - Block ads and other tracking services.
 - [Https everywhere - EFF](https://www.eff.org/https-everywhere) - Prefers encrypted sessions.
 - [Click & clean](https://www.hotcleaner.com/clickclean_chrome.html) - Private data cleaner for Chrome and Firefox.
+- [Firefox Focus browser](https://www.mozilla.org/en-US/firefox/focus/) - Automatic ad blocking and tracking protection on iOS and Android
 
 ## Host file optimizations 
 - [How to make the internet not suck (as much)](http://someonewhocares.org/hosts/) - Block domains at host file level for faster more private web browsing.
