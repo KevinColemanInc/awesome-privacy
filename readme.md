@@ -56,6 +56,7 @@ Hide your IP address
 - [Tor browser](https://www.torproject.org/projects/torbrowser.html.en) - Encrypted and anonymous web browsing.
 - [Epic browser](https://www.epicbrowser.com/) - Privacy focused web browser.
 - [Net runner](https://netrunner.cc) - to cater to powerusers and meet the demands of 4chan's /g.
+- [Cliqz](https://cliqz.com/en/) - Ad blocking and private search mobile web browser.
 
 ### Extensions & plugins for web browsers
 - [User agent changer](https://chrome.google.com/webstore/detail/user-agent-switcher-for-c/djflhoibgkdhkhhcedjiklpkjnoahfmg?hl=en-US) - Change user agent to prevent browser finger printing
