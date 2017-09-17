@@ -1,32 +1,38 @@
 # awesome-privacy [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 > Curated list of privacy tools, guides, and hidden things.
-----
-## Contents
-- [Anonymous web browsing](#anonymous-web-browsing)
-  * [VPN](#vpn)
-  * [Tor network](#tor-network)
-  * [Http Proxies](#http-proxies)
-  * [Browser testing](#browser-testing)
-- [Search Engines](#search-engines)
-- [Web browsers](#web-browsers)
-  * [Extensions & plugins for Web browsers](#extensions---plugins-for-web-browsers)
-- [Host file optimizations](#host-file-optimizations)
-- [Linux distros](#linux-distros)
-- [Communication](#communication)
-  * [Voice and SMS verification](#voice-and-sms-verification)
-  * [Chat](#chat)
-  * [Email](#email)
-  * [Password managment](#password-managment)
-  * [Burner electronics](#burner-electronics)
-  * [Payment](#payment)
-- [File Hosting](#file-hosting)
-- [Contribute](#contribute)
+<!-- TOC -->
 
-----
+- [awesome-privacy [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)](#awesome-privacy-awesomehttpscdnrawgitcomsindresorhusawesomed7305f38d29fed78fa85652e3a63e154dd8e8829mediabadgesvghttpsgithubcomsindresorhusawesome)
+  - [Anonymous web browsing](#anonymous-web-browsing)
+    - [Domain registration](#domain-registration)
+    - [VPN](#vpn)
+    - [Tor network](#tor-network)
+    - [Http proxies](#http-proxies)
+    - [Browser testing](#browser-testing)
+  - [Search engines](#search-engines)
+  - [Web browsers](#web-browsers)
+    - [Extensions & plugins for web browsers](#extensions--plugins-for-web-browsers)
+  - [Host file optimizations](#host-file-optimizations)
+  - [Linux distros](#linux-distros)
+  - [Communication](#communication)
+    - [Voice and SMS verification](#voice-and-sms-verification)
+    - [Chat](#chat)
+    - [Video](#video)
+    - [Email](#email)
+    - [Password managment](#password-managment)
+    - [Burner electronics](#burner-electronics)
+    - [Payment](#payment)
+  - [File hosting](#file-hosting)
+    - [Backup](#backup)
+  - [Contribute](#contribute)
+
+<!-- /TOC -->
 
 ## Anonymous web browsing
 Hide your IP address
+### Domain registration
+- [njal.la](https://njal.la/) - Anonymous domain registration by founder of thepiratebay
 
 ### VPN
 - [VPN comparison](https://thatoneprivacysite.net/simple-vpn-comparison-chart/) - Comprehensive tool for comparing VPN services.
@@ -37,7 +43,7 @@ Hide your IP address
 - [Tor project](https://www.torproject.org) - Government grade anonymous web browsing.
 - [How to setup Tor relay](https://www.torproject.org/docs/tor-doc-relay.html.en) - Guide for setting up a Tor relay.
 
-### Http Proxies
+### Http proxies
 [Don't use http proxies](https://www.defcon.org/images/defcon-17/dc-17-presentations/defcon-17-edward_zaborowski-doppelganger.pdf)
 
 ### Browser testing
@@ -46,7 +52,7 @@ Hide your IP address
 - [Privacy checkup](https://ipinfo.info/html/privacy-check.php) - Test privacy / trackability of your web browser.
 - [Privacy test by Tenta](https://tenta.com/test/) - Test privacy settings on browser.
 
-## Search
+## Search engines
 - [Duck Duck Go](https://duckduckgo.com) - Search engine that doesn't track you.
 - [ixquick](https://www.ixquick.com/) - The world's most private search engine.
 - [Ahmia](https://ahmia.fi/) - Tor search engine.
