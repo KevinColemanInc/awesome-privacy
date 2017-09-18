@@ -1,9 +1,8 @@
 # awesome-privacy [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 > Curated list of privacy tools, guides, and hidden things.
-<!-- TOC -->
 
-- [awesome-privacy [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)](#awesome-privacy-awesomehttpscdnrawgitcomsindresorhusawesomed7305f38d29fed78fa85652e3a63e154dd8e8829mediabadgesvghttpsgithubcomsindresorhusawesome)
+- [awesome-privacy](#awesome-privacy-awesomehttpscdnrawgitcomsindresorhusawesomed7305f38d29fed78fa85652e3a63e154dd8e8829mediabadgesvghttpsgithubcomsindresorhusawesome)
   - [Anonymous web browsing](#anonymous-web-browsing)
     - [Domain registration](#domain-registration)
     - [VPN](#vpn)
@@ -26,8 +25,6 @@
   - [File hosting](#file-hosting)
     - [Backup](#backup)
   - [Contribute](#contribute)
-
-<!-- /TOC -->
 
 ## Anonymous web browsing
 Hide your IP address
