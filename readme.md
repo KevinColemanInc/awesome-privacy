@@ -1,4 +1,4 @@
-# awesome-privacy 
+# Awesome Privacy
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 > Curated list of privacy tools, guides, and hidden things.
@@ -8,7 +8,7 @@
     - [Domain registration](#domain-registration)
     - [VPN](#vpn)
     - [Tor network](#tor-network)
-    - [Http proxies](#http-proxies)
+    - [HTTP proxies](#http-proxies)
     - [Browser testing](#browser-testing)
   - [Search engines](#search-engines)
   - [Web browsers](#web-browsers)
@@ -59,7 +59,7 @@ Hide your IP address
 ## Web browsers
 - [Tor browser](https://www.torproject.org/projects/torbrowser.html.en) - Encrypted and anonymous web browsing.
 - [Epic browser](https://www.epicbrowser.com/) - Privacy focused web browser.
-- [Net runner](https://netrunner.cc) - to cater to powerusers and meet the demands of 4chan's /g.
+- [Net runner](https://netrunner.cc) - To cater to powerusers and meet the demands of 4chan's /g.
 - [Cliqz](https://cliqz.com/en/) - Ad blocking and private search mobile web browser.
 
 ### Extensions & plugins for web browsers
@@ -78,7 +78,7 @@ Hide your IP address
 - [Qubes OS](https://www.qubes-os.org/) - Reasonably secure operating system.
 - [ipredia](http://www.ipredia.org/) - Linux distro with all network traffic is automatically and transparently encrypted and anonymized.
 - [Whonix](https://www.whonix.org/) - High security method of surfing the internet.
-- [Discreete Linux](https://www.privacy-cd.org/) - Privacy focused flavor of Ubunutu.
+- [Discreete Linux](https://www.privacy-cd.org/) - Privacy focused flavor of Ubuntu.
 
 ## Communication
 ### Voice and SMS verification
@@ -118,9 +118,9 @@ Hide your IP address
 - [CoinJoin](https://en.bitcoin.it/wiki/CoinJoin) - Bitcoin transaction compression which aims to improve privacy.
 ## File hosting
 ### Backup
-  - [TeamDrive](https://www.teamdrive.com/en/) - cloud back up [certified](https://www.teamdrive.com/en/certification/) by the Independent Regional Centre for Data Protection of Schleswig-Holstein.
-  - [Tresorit](https://www.teamdrive.com/en/) - cloud back up protected by Swiss data protection laws (but hosted on Microsoft Azure) with client side encryption.
-  - [SpiderOak](https://www.teamdrive.com/en/) - cloud back up with client side decryption only.
+  - [TeamDrive](https://www.teamdrive.com/en/) - Cloud back up [certified](https://www.teamdrive.com/en/certification/) by the Independent Regional Centre for Data Protection of Schleswig-Holstein.
+  - [Tresorit](https://www.teamdrive.com/en/) - Cloud back up protected by Swiss data protection laws (but hosted on Microsoft Azure) with client side encryption.
+  - [SpiderOak](https://www.teamdrive.com/en/) - Cloud back up with client side decryption only.
 
 ## Contribute
 
