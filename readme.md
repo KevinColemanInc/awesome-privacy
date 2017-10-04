@@ -26,6 +26,7 @@
   - [File hosting](#file-hosting)
     - [Backup](#backup)
   - [Contribute](#contribute)
+  - [License](#license)
 
 ## Anonymous web browsing
 Hide your IP address
@@ -125,3 +126,7 @@ Hide your IP address
 ## Contribute
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
+
+## License
+
+[![License: CC BY-NC-SA 4.0](https://licensebuttons.net/l/by-nc-sa/4.0/80x15.png)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
