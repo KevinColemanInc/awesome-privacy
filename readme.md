@@ -25,6 +25,7 @@
     - [Payment](#payment)
   - [File hosting](#file-hosting)
     - [Backup](#backup)
+  - [Blogs](#blogs)
   - [Contribute](#contribute)
   - [License](#license)
 
@@ -123,6 +124,8 @@ Hide your IP address
   - [Tresorit](https://www.teamdrive.com/en/) - Cloud back up protected by Swiss data protection laws (but hosted on Microsoft Azure) with client side encryption.
   - [SpiderOak](https://www.teamdrive.com/en/) - Cloud back up with client side decryption only.
 
+## Blogs
+  - [Do you need a vpn? (mozilla)](https://blog.mozilla.org/internetcitizen/2017/08/29/do-you-need-a-vpn/) - Guide to choosing a VPN provider
 ## Contribute
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
