@@ -44,8 +44,8 @@ Hide your IP address
 ### Mix Networks (Tor, etc.)
 - [Tor project](https://www.torproject.org) - Government grade anonymous web browsing.
 - [How to setup Tor relay](https://www.torproject.org/docs/tor-doc-relay.html.en) - Guide for setting up a Tor relay.
-- [Panoramix](https://panoramix-project.eu/) - Provide privacy via mix-networks (Tor alternative)
-- [The Invisible Internet Project](https://geti2p.net/en/) - Anonymous overlay network (Tor alternative)
+- [Panoramix](https://panoramix-project.eu/) - Provide privacy via mix-networks (Tor alternative).
+- [The Invisible Internet Project](https://geti2p.net/en/) - Anonymous overlay network (Tor alternative).
 
 ### Http proxies
 [Don't use http proxies](https://www.defcon.org/images/defcon-17/dc-17-presentations/defcon-17-edward_zaborowski-doppelganger.pdf)
