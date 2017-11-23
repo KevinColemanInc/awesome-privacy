@@ -41,10 +41,10 @@ Hide your IP address
 - [Docker AWS VPN](https://gist.github.com/glennschler/63e3c3f93038cddb5204) - Guide for self hosting VPN on AWS with docker.
 - [Digital Ocean self hosted VPN](https://www.digitalocean.com/community/tutorials/how-to-set-up-an-openvpn-server-on-ubuntu-16-04) - Guide for self hosted VPN on Digital Ocean.
 
-### Mix Networks (Tor, etc.)
+### Mix networks (Tor, etc.)
 - [Tor project](https://www.torproject.org) - Government grade anonymous web browsing.
 - [How to setup Tor relay](https://www.torproject.org/docs/tor-doc-relay.html.en) - Guide for setting up a Tor relay.
-- [Panoramix](https://panoramix-project.eu/) - Provide privacy via mix-networks (Tor alternative).
+- [Panoramix](https://panoramix-project.eu/) - Provide privacy via mix-networks (Tor alternative).``
 - [The Invisible Internet Project](https://geti2p.net/en/) - Anonymous overlay network (Tor alternative).
 
 ### Http proxies
