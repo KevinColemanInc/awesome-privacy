@@ -9,7 +9,7 @@
   - [Anonymous web browsing](#anonymous-web-browsing)
     - [Domain registration](#domain-registration)
     - [VPN](#vpn)
-    - [Mix Networks (Tor, etc.)](#mix-networks-tor-etc)
+    - [Mix networks (Tor, etc.)](#mix-networks-tor-etc)
     - [Http proxies](#http-proxies)
     - [Browser testing](#browser-testing)
   - [Search engines](#search-engines)
