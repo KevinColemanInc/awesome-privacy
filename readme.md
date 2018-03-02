@@ -130,6 +130,7 @@ Hide your IP address
 
 ## Blogs
   - [Do you need a vpn? (mozilla)](https://blog.mozilla.org/internetcitizen/2017/08/29/do-you-need-a-vpn/) - Guide to choosing a VPN provider
+  - [Firefox privacy guide](http://12bytes.org/tech/firefox/firefoxgecko-configuration-guide-for-privacy-and-performance-buffs) - Firefox Configuration Guide for Privacy Freaks and Performance Buffs
 ## Contribute
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
