@@ -36,14 +36,13 @@
 Hide your IP address
 
 ### Domain registration
-
-- [njal.la](https://njal.la/) - Anonymous domain registration by founder of thepiratebay
+- [njal.la](https://njal.la/) - Anonymous domain registration by the founder of thepiratebay.
 
 ### VPN
 
 - [VPN comparison](https://thatoneprivacysite.net/simple-vpn-comparison-chart/) - Comprehensive tool for comparing VPN services.
 - [Docker AWS VPN](https://gist.github.com/glennschler/63e3c3f93038cddb5204) - Guide for self hosting VPN on AWS with docker.
-- [Digital Ocean self hosted VPN](https://www.digitalocean.com/community/tutorials/how-to-set-up-an-openvpn-server-on-ubuntu-16-04) - Guide for self hosted VPN on Digital Ocean.
+- [DigitalOcean self hosted VPN](https://www.digitalocean.com/community/tutorials/how-to-set-up-an-openvpn-server-on-ubuntu-16-04) - Guide for self hosted VPN on Digital Ocean.
 
 ### Mix networks (Tor, etc.)
 
@@ -65,10 +64,10 @@ Hide your IP address
 
 ## Search engines
 
-- [Duck Duck Go](https://duckduckgo.com) - Search engine that doesn't track you.
-- [ixquick](https://www.ixquick.com/) - The world's most private search engine.
+- [DuckDuckGo](https://duckduckgo.com) - Search engine that doesn't track you.
+- [Ixquick](https://www.ixquick.com/) - The world's most private search engine.
 - [Ahmia](https://ahmia.fi/) - Tor search engine.
-- [Have I been pwnd?](https://haveibeenpwned.com/) - See if your email address has been found in a database hack.
+- [Have I been pwned?](https://haveibeenpwned.com/) - See if your email address has been found in a database hack.
 
 ## Web browsers
 
@@ -81,14 +80,14 @@ Hide your IP address
 
 - [User agent changer](https://chrome.google.com/webstore/detail/user-agent-switcher-for-c/djflhoibgkdhkhhcedjiklpkjnoahfmg?hl=en-US) - Change user agent to prevent browser finger printing
 - [Privacy badger - EFF](https://www.eff.org/privacybadger) - Block ads and other tracking services.
-- [Https everywhere - EFF](https://www.eff.org/https-everywhere) - Prefers encrypted sessions.
-- [Click & clean](https://www.hotcleaner.com/clickclean_chrome.html) - Private data cleaner for Chrome and Firefox.
+- [HTTPS everywhere - EFF](https://www.eff.org/https-everywhere) - Prefers encrypted sessions.
+- [Click&Clean](https://www.hotcleaner.com/clickclean_chrome.html) - Private data cleaner for Chrome and Firefox.
 - [Firefox Focus browser](https://www.mozilla.org/en-US/firefox/focus/) - Automatic ad blocking and tracking protection on iOS and Android
 
 ## Host file optimizations 
 
 - [How to make the internet not suck (as much)](http://someonewhocares.org/hosts/) - Block domains at host file level for faster more private web browsing.
-- [Hosts (Github project)](https://github.com/StevenBlack/hosts) - List of malicious domains to block in host file.
+- [Hosts (GitHub project)](https://github.com/StevenBlack/hosts) - List of malicious domains to block in host file.
 
 ## Linux distros
 
