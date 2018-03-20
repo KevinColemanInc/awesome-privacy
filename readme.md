@@ -75,6 +75,7 @@ Hide your IP address
 - [Epic browser](https://www.epicbrowser.com/) - Privacy focused web browser.
 - [Net runner](https://netrunner.cc) - To cater to powerusers and meet the demands of 4chan's /g.
 - [Cliqz](https://cliqz.com/en/) - Ad blocking and private search mobile web browser.
+- [Brave](https://brave.com/) - Browse faster by blocking ads and trackers
 
 ### Extensions & plugins for web browsers
 
