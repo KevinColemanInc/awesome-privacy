@@ -84,6 +84,7 @@ Hide your IP address
 - [HTTPS everywhere - EFF](https://www.eff.org/https-everywhere) - Prefers encrypted sessions.
 - [Click&Clean](https://www.hotcleaner.com/clickclean_chrome.html) - Private data cleaner for Chrome and Firefox.
 - [Firefox Focus browser](https://www.mozilla.org/en-US/firefox/focus/) - Automatic ad blocking and tracking protection on iOS and Android
+- [DNS service](https://1.1.1.1/) - Privacy-first consumer DNS service by Cloudflare
 
 ## Host file optimizations 
 
