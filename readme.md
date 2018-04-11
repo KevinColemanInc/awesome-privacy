@@ -109,6 +109,7 @@ Hide your IP address
 
 - [Telegram](https://telegram.org/) - Heavily encrypted and self-destructing messages.
 - [Signal](https://whispersystems.org/) - Free peer reviewed scalable encryption chat.
+- [Wire](https://wire.com) - End-to-end chats,calls and documents. 
 
 ### Video
 
@@ -127,6 +128,7 @@ Hide your IP address
 - [LastPass](https://www.lastpass.com/) - Password management.
 - [1Password](https://1password.com/) - Password management.
 - [Keepass](http://keepass.info/) - Password management.
+- [Passbolt](https://www.passbolt.com/) - Password management.
 
 ### Burner electronics
 
