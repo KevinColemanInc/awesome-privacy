@@ -148,8 +148,8 @@ Hide your IP address
 ### Backup
 
 - [TeamDrive](https://www.teamdrive.com/en/) - Cloud back up [certified](https://www.teamdrive.com/en/certification/) by the Independent Regional Centre for Data Protection of Schleswig-Holstein.
-- [Tresorit](https://www.teamdrive.com/en/) - Cloud back up protected by Swiss data protection laws (but hosted on Microsoft Azure) with client side encryption.
-- [SpiderOak](https://www.teamdrive.com/en/) - Cloud back up with client side decryption only.
+- [Tresorit](https://tresorit.com/) - Cloud back up protected by Swiss data protection laws (but hosted on Microsoft Azure) with client side encryption.
+- [SpiderOak](https://spideroak.com/) - Cloud back up with client side decryption only.
 
 ## Blogs
 
