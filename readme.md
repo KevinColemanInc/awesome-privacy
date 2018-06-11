@@ -1,4 +1,5 @@
 # Awesome Privacy
+
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 > Limiting personal data leaks on the internet
@@ -36,6 +37,7 @@
 Hide your IP address
 
 ### Domain registration
+
 - [njal.la](https://njal.la/) - Anonymous domain registration by the founder of thepiratebay.
 
 ### VPN
@@ -66,16 +68,16 @@ Hide your IP address
 
 - [DuckDuckGo](https://duckduckgo.com) - Search engine that doesn't track you.
 - [Ixquick](https://www.ixquick.com/) - The world's most private search engine.
-- [Ahmia](https://ahmia.fi/) - Tor search engine.
-- [Have I been pwned?](https://haveibeenpwned.com/) - See if your email address has been found in a database hack.
+- [Ahmia](https://ahmia.fi) - Tor search engine.
+- [Have I been pwned?](https://haveibeenpwned.com) - See if your email address has been found in a database hack.
 
 ## Web browsers
 
 - [Tor browser](https://www.torproject.org/projects/torbrowser.html.en) - Encrypted and anonymous web browsing.
-- [Epic browser](https://www.epicbrowser.com/) - Privacy focused web browser.
+- [Epic browser](https://www.epicbrowser.com) - Privacy focused web browser.
 - [Net runner](https://netrunner.cc) - To cater to powerusers and meet the demands of 4chan's /g.
-- [Cliqz](https://cliqz.com/en/) - Ad blocking and private search mobile web browser.
-- [Brave](https://brave.com/) - Browse faster by blocking ads and trackers
+- [Cliqz](https://cliqz.com) - Ad blocking and private search mobile web browser.
+- [Brave](https://brave.com) - Built-in privacy protections and ad blocking, but based on Chromium.
 
 ### Extensions & plugins for web browsers
 
@@ -86,7 +88,7 @@ Hide your IP address
 - [Firefox Focus browser](https://www.mozilla.org/en-US/firefox/focus/) - Automatic ad blocking and tracking protection on iOS and Android
 - [DNS service](https://1.1.1.1/) - Privacy-first consumer DNS service by Cloudflare
 
-## Host file optimizations 
+## Host file optimizations
 
 - [How to make the internet not suck (as much)](http://someonewhocares.org/hosts/) - Block domains at host file level for faster more private web browsing.
 - [Hosts (GitHub project)](https://github.com/StevenBlack/hosts) - List of malicious domains to block in host file.
@@ -109,7 +111,7 @@ Hide your IP address
 
 - [Telegram](https://telegram.org/) - Heavily encrypted and self-destructing messages.
 - [Signal](https://whispersystems.org/) - Free peer reviewed scalable encryption chat.
-- [Wire](https://wire.com) - End-to-end chats,calls and documents. 
+- [Wire](https://wire.com) - End-to-end chats,calls and documents.
 
 ### Video
 
@@ -123,8 +125,12 @@ Hide your IP address
 - [Mailinator](https://www.mailinator.com/) - Temporary email.
 - [Throw Away Mail](http://www.throwawaymail.com/) - Temporary email.
 - [Proton mail](https://protonmail.com/) - Secure email based in Switzerland.
+- [Mailfence](https://mailfence.com) - Based in Belgium – 500 MB free; 20 GB Pro
+- [Tutanota](https://tutanota.com) - Based in Germany – 1 GB free; 10 GB Pro
+- [Mailbox.org](https://mailbox.org) - Based in Germany – 2 GB storage
 
 ### Password managment
+
 - [LastPass](https://www.lastpass.com/) - Password management.
 - [1Password](https://1password.com/) - Password management.
 - [Keepass](http://keepass.info/) - Password management.
@@ -155,9 +161,10 @@ Hide your IP address
 
 ## Blogs
 
-- [Do you need a vpn? (mozilla)](https://blog.mozilla.org/internetcitizen/2017/08/29/do-you-need-a-vpn/) - Guide to choosing a VPN provider
-- [Firefox privacy guide](http://12bytes.org/tech/firefox/firefoxgecko-configuration-guide-for-privacy-and-performance-buffs) - Firefox Configuration Guide for Privacy Freaks and Performance Buffs
-- [A Better Online Experience](https://gacallea.github.io/posts/a-better-online-experience) - macOS & iOS privacy configurations for email, browsing, and more
+- [Do you need a vpn? (mozilla)](https://blog.mozilla.org/internetcitizen/2017/08/29/do-you-need-a-vpn/) - Guide to choosing a VPN provider.
+- [Firefox privacy guide](http://12bytes.org/tech/firefox/firefoxgecko-configuration-guide-for-privacy-and-performance-buffs) - Firefox Configuration Guide for Privacy Freaks and Performance Buffs.
+- [A Better Online Experience](https://gacallea.github.io/posts/a-better-online-experience) - macOS & iOS privacy configurations for email, browsing, and more.
+- [Google alternatives](https://restoreprivacy.com/google-alternatives/) - Privacy focused alternaties to Google services.
 
 ## Contribute
 
