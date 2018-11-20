@@ -135,6 +135,7 @@ Hide your IP address
 - [1Password](https://1password.com/) - Password management.
 - [Keepass](http://keepass.info/) - Password management.
 - [Passbolt](https://www.passbolt.com/) - Password management.
+- [PasswordStore](https://www.passwordstore.org/) - Password management using `gpg` to encrypt passwords.
 
 ### Burner electronics
 
