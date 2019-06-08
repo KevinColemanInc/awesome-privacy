@@ -51,7 +51,7 @@ Hide your IP address
 - [Tor project](https://www.torproject.org) - Government grade anonymous web browsing.
 - [How to setup Tor relay](https://www.torproject.org/docs/tor-doc-relay.html.en) - Guide for setting up a Tor relay.
 - [Panoramix](https://panoramix-project.eu/) - Provide privacy via mix-networks (Tor alternative).``
-- [The Invisible Internet Project](https://geti2p.net/en/) - Anonymous overlay network (Tor alternative).
+- [The Invisible Internet Project (I2P)](https://geti2p.net/en/) - Anonymous overlay network (Tor alternative).
 
 ### Http proxies
 
@@ -81,12 +81,12 @@ Hide your IP address
 
 ### Extensions & plugins for web browsers
 
-- [User agent changer](https://chrome.google.com/webstore/detail/user-agent-switcher-for-c/djflhoibgkdhkhhcedjiklpkjnoahfmg?hl=en-US) - Change user agent to prevent browser finger printing
+- [User agent changer](https://chrome.google.com/webstore/detail/user-agent-switcher-for-c/djflhoibgkdhkhhcedjiklpkjnoahfmg?hl=en-US) - Change user agent to prevent browser finger printing.
 - [Privacy badger - EFF](https://www.eff.org/privacybadger) - Block ads and other tracking services.
 - [HTTPS everywhere - EFF](https://www.eff.org/https-everywhere) - Prefers encrypted sessions.
 - [Click&Clean](https://www.hotcleaner.com/clickclean_chrome.html) - Private data cleaner for Chrome and Firefox.
-- [Firefox Focus browser](https://www.mozilla.org/en-US/firefox/focus/) - Automatic ad blocking and tracking protection on iOS and Android
-- [DNS service](https://1.1.1.1/) - Privacy-first consumer DNS service by Cloudflare
+- [Firefox Focus browser](https://www.mozilla.org/en-US/firefox/focus/) - Automatic ad blocking and tracking protection on iOS and Android.
+- [DNS service](https://1.1.1.1/) - Privacy-first consumer DNS service by Cloudflare.
 
 ## Host file optimizations
 
@@ -133,9 +133,10 @@ Hide your IP address
 
 - [LastPass](https://www.lastpass.com/) - Password management.
 - [1Password](https://1password.com/) - Password management.
-- [Keepass](http://keepass.info/) - Password management.
-- [Passbolt](https://www.passbolt.com/) - Password management.
-- [PasswordStore](https://www.passwordstore.org/) - Password management using `gpg` to encrypt passwords.
+- [Keepass](http://keepass.info/) - Open source password management.
+- [Passbolt](https://www.passbolt.com/) - Open source password management.
+- [PasswordStore](https://www.passwordstore.org/) - Open source password management using `gpg` to encrypt passwords.
+- [BitWarden](https://bitwarden.com) - Open source password management.
 
 ### Burner electronics
 
@@ -156,7 +157,7 @@ Hide your IP address
 
 ### Backup
 
-- [TeamDrive](https://www.teamdrive.com) - Cloud back up [certified](https://www.teamdrive.com/en/certification/) by the Independent Regional Centre for Data Protection of Schleswig-Holstein.
+- [Synqion (Formerly TeamDrive)](https://synqion.com) - Cloud back up certified by the Independent Regional Centre for Data Protection of Schleswig-Holstein.
 - [Tresorit](https://tresorit.com) - Cloud back up protected by Swiss data protection laws (but hosted on Microsoft Azure) with client side encryption.
 - [SpiderOak](https://spideroak.com) - Cloud back up with client side decryption only.
 - [NextCloud](https://nextcloud.com) - Open source, self-hosted file share and communication platform based in Germany.
