@@ -19,7 +19,6 @@
   - [Host file optimizations](#host-file-optimizations)
   - [Linux distros](#linux-distros)
   - [Communication](#communication)
-    - [Voice and SMS verification](#voice-and-sms-verification)
     - [Chat](#chat)
     - [Video](#video)
     - [Email](#email)
@@ -77,7 +76,7 @@ Hide your IP address
 - [Epic browser](https://www.epicbrowser.com) - Privacy focused web browser.
 - [Net runner](https://netrunner.cc) - To cater to powerusers and meet the demands of 4chan's /g.
 - [Cliqz](https://cliqz.com) - Ad blocking and private search mobile web browser.
-- [Brave](https://brave.com) - Built-in privacy protections and ad blocking, but based on Chromium.
+- [Firefox](https://www.mozilla.org/en-US/firefox/new/) - Privacy-first web browser with lots of addons to further increase privacy
 
 ### Extensions & plugins for web browsers
 
@@ -87,6 +86,9 @@ Hide your IP address
 - [Click&Clean](https://www.hotcleaner.com/clickclean_chrome.html) - Private data cleaner for Chrome and Firefox.
 - [Firefox Focus browser](https://www.mozilla.org/en-US/firefox/focus/) - Automatic ad blocking and tracking protection on iOS and Android.
 - [DNS service](https://1.1.1.1/) - Privacy-first consumer DNS service by Cloudflare.
+- [CanvasBlocker (FF)](https://addons.mozilla.org/en-US/firefox/addon/canvasblocker/) - Prevents fingerprinting in Firefox
+- [Cookie AutoDelete](https://addons.mozilla.org/en-US/firefox/addon/cookie-autodelete/) - Deletes unnused cookies on tab close
+- [Firefox Profilemaker](https://ffprofile.com/) - Creates privacy focused Firefox profiles
 
 ## Host file optimizations
 
@@ -102,10 +104,6 @@ Hide your IP address
 - [Discreete Linux](https://www.privacy-cd.org/) - Privacy focused flavor of Ubuntu.
 
 ## Communication
-
-### Voice and SMS verification
-
-- [Anonymous BTC SMS](https://www.anonymousbtcsms.com) - Anonymous SMS account verification for social media registration.
 
 ### Chat
 
@@ -124,10 +122,11 @@ Hide your IP address
 - [Yopmail](http://www.yopmail.com/en/email-generator.php) - Temporary email.
 - [Mailinator](https://www.mailinator.com/) - Temporary email.
 - [Throw Away Mail](http://www.throwawaymail.com/) - Temporary email.
-- [Proton mail](https://protonmail.com/) - Secure email based in Switzerland.
+- [ProtonMail](https://protonmail.com/) - Secure email based in Switzerland.
 - [Mailfence](https://mailfence.com) - Based in Belgium – 500 MB free; 20 GB Pro
 - [Tutanota](https://tutanota.com) - Based in Germany – 1 GB free; 10 GB Pro
 - [Mailbox.org](https://mailbox.org) - Based in Germany – 2 GB storage
+- [Mail-in-a-box](https://mailinabox.email/) - Host your own email on your own server
 
 ### Password managment
 
@@ -137,6 +136,7 @@ Hide your IP address
 - [Passbolt](https://www.passbolt.com/) - Open source password management.
 - [PasswordStore](https://www.passwordstore.org/) - Open source password management using `gpg` to encrypt passwords.
 - [BitWarden](https://bitwarden.com) - Open source password management.
+- [LessPass](https://lesspass.com/) - No sync password management
 
 ### Burner electronics
 
@@ -161,6 +161,7 @@ Hide your IP address
 - [Tresorit](https://tresorit.com) - Cloud back up protected by Swiss data protection laws (but hosted on Microsoft Azure) with client side encryption.
 - [SpiderOak](https://spideroak.com) - Cloud back up with client side decryption only.
 - [NextCloud](https://nextcloud.com) - Open source, self-hosted file share and communication platform based in Germany.
+- [Least Authority S4](https://leastauthority.com/) - think AWS S3 but with client-side encrypted
 
 ## Blogs
 
