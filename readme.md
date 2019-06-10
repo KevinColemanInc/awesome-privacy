@@ -167,7 +167,7 @@ Hide your IP address
 
 - [Do you need a vpn? (mozilla)](https://blog.mozilla.org/internetcitizen/2017/08/29/do-you-need-a-vpn/) - Guide to choosing a VPN provider.
 - [Firefox privacy guide](http://12bytes.org/tech/firefox/firefoxgecko-configuration-guide-for-privacy-and-performance-buffs) - Firefox Configuration Guide for Privacy Freaks and Performance Buffs.
-- [A Better Online Experience](https://gacallea.github.io/posts/a-better-online-experience) - macOS & iOS privacy configurations for email, browsing, and more.
+- [A Better Online Experience](https://web.archive.org/web/20180807021324/https://gacallea.github.io/posts/a-better-online-experience/) (archive.org link, original content down) - macOS & iOS privacy configurations for email, browsing, and more.
 - [Google alternatives](https://restoreprivacy.com/google-alternatives/) - Privacy focused alternaties to Google services.
 
 ## Contribute
