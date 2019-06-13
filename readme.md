@@ -107,7 +107,6 @@ Hide your IP address
 
 ### Chat
 
-- [Telegram](https://telegram.org/) - Heavily encrypted and self-destructing messages.
 - [Signal](https://whispersystems.org/) - Free peer reviewed scalable encryption chat.
 - [Wire](https://wire.com) - End-to-end chats,calls and documents.
 
