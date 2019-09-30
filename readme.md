@@ -10,6 +10,7 @@
   - [Anonymous web browsing](#anonymous-web-browsing)
     - [Domain registration](#domain-registration)
     - [VPN](#vpn)
+    - [Shadowsocks](#shadow-socks)
     - [Mix networks (Tor, etc.)](#mix-networks-tor-etc)
     - [Http proxies](#http-proxies)
     - [Browser testing](#browser-testing)
@@ -44,6 +45,13 @@ Hide your IP address
 - [VPN comparison](https://thatoneprivacysite.net/simple-vpn-comparison-chart/) - Comprehensive tool for comparing VPN services.
 - [Docker AWS VPN](https://gist.github.com/glennschler/63e3c3f93038cddb5204) - Guide for self hosting VPN on AWS with docker.
 - [DigitalOcean self hosted VPN](https://www.digitalocean.com/community/tutorials/how-to-set-up-an-openvpn-server-on-ubuntu-16-04) - Guide for self hosted VPN on Digital Ocean.
+
+### Shadowsocks
+
+- [Shadowsocks](https://shadowsocks.org/en/index.html) - Encrypted proxy project, used in mainland China to circumvent Internet censorship
+- [GoQuiet](https://github.com/cbeuw/GoQuiet) - Obfuscates traffic as normal HTTPS traffic through domain fronting
+- [Cloak](https://github.com/cbeuw/Cloak) - Universal pluggable transport for Shadowsocks
+- [v2ray-plugin](https://github.com/shadowsocks/v2ray-plugin) - A plugin that is based v2ray
 
 ### Mix networks (Tor, etc.)
 
