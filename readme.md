@@ -49,9 +49,10 @@ Hide your IP address
 ### Shadowsocks
 
 - [Shadowsocks](https://shadowsocks.org/en/index.html) - Encrypted proxy project, used in mainland China to circumvent Internet censorship
-- [GoQuiet](https://github.com/cbeuw/GoQuiet) - Obfuscates traffic as normal HTTPS traffic through domain fronting
-- [Cloak](https://github.com/cbeuw/Cloak) - Universal pluggable transport for Shadowsocks
-- [v2ray-plugin](https://github.com/shadowsocks/v2ray-plugin) - A plugin that is based v2ray
+- Various plugins:
+  - [GoQuiet](https://github.com/cbeuw/GoQuiet) - Obfuscates traffic as normal HTTPS traffic through domain fronting
+  - [Cloak](https://github.com/cbeuw/Cloak) - Universal pluggable transport for Shadowsocks
+  - [v2ray-plugin](https://github.com/shadowsocks/v2ray-plugin) - A plugin that is based v2ray
 
 ### Mix networks (Tor, etc.)
 
