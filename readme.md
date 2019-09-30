@@ -10,7 +10,7 @@
   - [Anonymous web browsing](#anonymous-web-browsing)
     - [Domain registration](#domain-registration)
     - [VPN](#vpn)
-    - [Shadowsocks](#shadow-socks)
+    - [Shadowsocks](#shadowsocks)
     - [Mix networks (Tor, etc.)](#mix-networks-tor-etc)
     - [Http proxies](#http-proxies)
     - [Browser testing](#browser-testing)
