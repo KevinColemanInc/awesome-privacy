@@ -11,6 +11,7 @@
     - [Domain registration](#domain-registration)
     - [VPN](#vpn)
     - [Mix networks (Tor, etc.)](#mix-networks-tor-etc)
+    - [Web proxies](#web-proxies)
     - [Http proxies](#http-proxies)
     - [Browser testing](#browser-testing)
   - [Search engines](#search-engines)
@@ -51,6 +52,11 @@ Hide your IP address
 - [How to setup Tor relay](https://www.torproject.org/docs/tor-doc-relay.html.en) - Guide for setting up a Tor relay.
 - [Panoramix](https://panoramix-project.eu/) - Provide privacy via mix-networks (Tor alternative).``
 - [The Invisible Internet Project (I2P)](https://geti2p.net/en/) - Anonymous overlay network (Tor alternative).
+
+### Web proxies
+
+- [miniProxy](https://github.com/joshdick/miniProxy) - Simple web proxy written in PHP
+- [php-proxy-app](https://github.com/Athlon1600/php-proxy-app) - Web Proxy Application ready to be installed on your server
 
 ### Http proxies
 
