@@ -44,7 +44,7 @@ Hide your IP address
 - [VPN comparison](https://thatoneprivacysite.net/simple-vpn-comparison-chart/) - Comprehensive tool for comparing VPN services.
 - [Docker AWS VPN](https://gist.github.com/glennschler/63e3c3f93038cddb5204) - Guide for self hosting VPN on AWS with docker.
 - [DigitalOcean self hosted VPN](https://www.digitalocean.com/community/tutorials/how-to-set-up-an-openvpn-server-on-ubuntu-16-04) - Guide for self hosted VPN on Digital Ocean.
-- [Mysterium.vpn](https://mysterium.network/) - Self hosted VPN with the ability to share your bandwidth with others for secure network and privacy and the best part about it is open source.
+- [Mysterium.vpn](https://mysterium.network/) - Self hosted VPN.
 
 ### Mix networks (Tor, etc.)
 
