@@ -20,6 +20,7 @@
   - [Linux distros](#linux-distros)
   - [Communication](#communication)
     - [Chat](#chat)
+    - [Image](#image)
     - [Video](#video)
     - [Email](#email)
     - [Password managment](#password-managment)
@@ -109,6 +110,10 @@ Hide your IP address
 
 - [Signal](https://whispersystems.org/) - Free peer reviewed scalable encryption chat.
 - [Wire](https://wire.com) - End-to-end chats,calls and documents.
+
+### Image
+
+  - [ExifCleaner](https://exifcleaner.com/) - Open source app to remove exif metadata from images.
 
 ### Video
 
