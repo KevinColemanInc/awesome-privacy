@@ -27,6 +27,8 @@
     - [Payment](#payment)
   - [File hosting](#file-hosting)
     - [Backup](#backup)
+  - [System utilities](#system-utilities)
+    - [Command line tools](#command-line-tools)
   - [Blogs](#blogs)
   - [Contribute](#contribute)
   - [License](#license)
@@ -107,6 +109,7 @@ Hide your IP address
 
 ### Chat
 
+- [Cherry](https://github.com/rafael-santiago/cherry) - A self-hosted webchat server that supports HTTPS.
 - [Signal](https://whispersystems.org/) - Free peer reviewed scalable encryption chat.
 - [Wire](https://wire.com) - End-to-end chats,calls and documents.
 
@@ -161,6 +164,12 @@ Hide your IP address
 - [SpiderOak](https://spideroak.com) - Cloud back up with client side decryption only.
 - [NextCloud](https://nextcloud.com) - Open source, self-hosted file share and communication platform based in Germany.
 - [Least Authority S4](https://leastauthority.com/) - think AWS S3 but with client-side encrypted
+
+## System utilities
+
+### Command line tools
+
+- [lethe](https://github.com/rafael-santiago/lethe) - A cross-platform data wiping tool that implements data destruction suggestions given by Bruce Schneier in his book ``Applied Cryptography``.
 
 ## Blogs
 
