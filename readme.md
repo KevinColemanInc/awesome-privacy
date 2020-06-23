@@ -109,6 +109,7 @@ Hide your IP address
 
 - [Signal](https://whispersystems.org/) - Free peer reviewed scalable encryption chat.
 - [Wire](https://wire.com) - End-to-end chats,calls and documents.
+- [Ricochet](https://ricochet.im/) - End-to-end serverless tor chat
 
 ### Video
 
