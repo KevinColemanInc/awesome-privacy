@@ -170,7 +170,7 @@ Hide your IP address
 
 ### Video
 
-- [jitzi](https://jitsi.org/) - Secure open source video conferencing.
+- [jitsi](https://jitsi.org/) - Secure open source video conferencing.
 
 ### Email
 
