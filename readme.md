@@ -179,6 +179,7 @@ Hide your IP address
 - [Yopmail](http://www.yopmail.com/en/email-generator.php) - Temporary email.
 - [Mailinator](https://www.mailinator.com/) - Temporary email.
 - [Throw Away Mail](http://www.throwawaymail.com/) - Temporary email.
+- [AnonAddy](https://anonaddy.com) - Open-source anonymous email forwarding (with optional PGP encryption)
 - [ProtonMail](https://protonmail.com/) - Secure email based in Switzerland.
 - [Mailfence](https://mailfence.com) - Based in Belgium – 500 MB free; 20 GB Pro
 - [Tutanota](https://tutanota.com) - Based in Germany – 1 GB free; 10 GB Pro
