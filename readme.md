@@ -109,6 +109,7 @@ Hide your IP address
 - [Startpage](https://www.startpage.com/) - The world's most private search engine.
 - [Ahmia](https://ahmia.fi) - Tor search engine.
 - [Have I been pwned?](https://haveibeenpwned.com) - See if your email address has been found in a database hack.
+- [Swisscows](https://swisscows.com) - 100 % anonymous, child-friendly, own servers in the swiss alps (no cloud provider), everything is located outside of the EU and US.
 
 ## Web browsers
 
