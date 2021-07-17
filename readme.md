@@ -117,6 +117,7 @@ Hide your IP address
 - [Net runner](https://netrunner.cc) - To cater to powerusers and meet the demands of 4chan's /g.
 - [Cliqz](https://cliqz.com) - Ad blocking and private search mobile web browser.
 - [Firefox](https://www.mozilla.org/en-US/firefox/new/) - Privacy-first web browser with lots of addons to further increase privacy
+  - [LibreWolf](https://librewolf-community.gitlab.io/) - A fork of Firefox, focused on privacy, security and freedom.
 
 ### Extensions & plugins for web browsers
 
