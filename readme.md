@@ -196,6 +196,7 @@ Hide your IP address
 - [BitWarden](https://bitwarden.com) - Open source password management.
 - [LessPass](https://lesspass.com/) - No sync password management
 - [Pass](https://www.passwordstore.org/) Simple GPG/Git password manager. Follows the Unix philosophy.
+- [Padloc](https://padloc.app/) Open source, End-to-end encrypted password manager.
 
 ### Burner electronics
 
@@ -244,6 +245,7 @@ Hide your IP address
 - [Any Soft Keyboard](https://github.com/AnySoftKeyboard/AnySoftKeyboard) A privacy-focused keyboard
 - [PrivacyTools](https://www.privacytools.io/) Services, tools, and knowledge to protect your privacy against global mass surveillance
 - [switching.software](https://switching.software/) Ethical, easy-to-use and privacy-conscious alternatives to well-known software
+- [Budget Zen](https://budgetzen.net/) Simple and end-to-end encrypted budget and expense management (also Open source).
 
 
 ## Contribute
