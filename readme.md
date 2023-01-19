@@ -174,6 +174,7 @@ Hide your IP address
 
 ### Email
 
+- [Forward Email](https://forwardemail.net) (@forwardemail) - the 100% open-source and privacy-focused email service.
 - [Nbox](https://nbox.notif.me/) - Hide your email for signups.
 - [Improvmx](http://improvmx.com/) - Forward email from your own domain name (allows for uniq emails for each website you register).
 - [Yopmail](http://www.yopmail.com/en/email-generator.php) - Temporary email.
