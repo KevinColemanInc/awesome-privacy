@@ -174,7 +174,6 @@ Hide your IP address
 
 ### Email
 
-- [Forward Email](https://forwardemail.net) (@forwardemail) - the 100% open-source and privacy-focused email service.
 - [Nbox](https://nbox.notif.me/) - Hide your email for signups.
 - [Improvmx](http://improvmx.com/) - Forward email from your own domain name (allows for uniq emails for each website you register).
 - [Yopmail](http://www.yopmail.com/en/email-generator.php) - Temporary email.
@@ -186,6 +185,7 @@ Hide your IP address
 - [Tutanota](https://tutanota.com) - Based in Germany – 1 GB free; 10 GB Pro
 - [Mailbox.org](https://mailbox.org) - Based in Germany – 2 GB storage
 - [Mail-in-a-box](https://mailinabox.email/) - Host your own email on your own server
+- [Forward Email](https://forwardemail.net) (@forwardemail) - the only 100% open-source, encrypted, and privacy-focused email service.
 
 ### Password managment
 
