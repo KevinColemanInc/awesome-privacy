@@ -42,20 +42,20 @@
 
 ## Windows 10 Privacy
 
-- [O&O ShutUp10](https://www.oo-software.com/en/shutup10) O&O ShutUp10 means you have full control over which comfort functions under Windows 10 you wish to use, and you decide when the passing on of your data goes too far.
-- [Windows 10 Privacy Guide](https://github.com/adolfintel/Windows10-Privacy) an In-depth guide on purging Windows 10 of Microsoft's attempts to track you
-- [Windows Privacy Tweaker](https://www.phrozen.io/freeware/windows-privacy-tweaker/) Freeware app from phrozen.io
-- [Winaero](https://winaero.com/blog/about-us/) Free, small and useful software for Windows.
-- [WPD](https://wpd.app/) The real privacy dashboard for Windows
-- [Destroy-Windows-10-Spying](http://m.majorgeeks.com/files/details/destroy_windows_10_spying.html) Destroy Windows Spying tool
-- [Tron](https://www.reddit.com/r/TronScript) Tron, an automated PC cleanup script
-- [Tallow](https://github.com/basil00/TorWall) Tallow is a transparent Tor firewall and proxying solution for Windows.
+- [O&O ShutUp10](https://www.oo-software.com/en/shutup10) - O&O ShutUp10 means you have full control over which comfort functions under Windows 10 you wish to use, and you decide when the passing on of your data goes too far.
+- [Windows 10 Privacy Guide](https://github.com/adolfintel/Windows10-Privacy) -  An in-depth guide on purging Windows 10 of Microsoft's attempts to track you.
+- [Windows Privacy Tweaker](https://www.phrozen.io/freeware/windows-privacy-tweaker/) - Freeware app from phrozen.io.
+- [Winaero](https://winaero.com/blog/about-us/) - Free, small and useful software for Windows.
+- [WPD](https://wpd.app/) - The real privacy dashboard for Windows.
+- [Destroy-Windows-10-Spying](http://m.majorgeeks.com/files/details/destroy_windows_10_spying.html) - Destroy Windows Spying tool.
+- [Tron](https://www.reddit.com/r/TronScript) - Tron, an automated PC cleanup script.
+- [Tallow](https://github.com/basil00/TorWall) - Tallow is a transparent Tor firewall and proxying solution for Windows.
   
 ## Antivirus
-- [MalwareBytes](https://www.malwarebytes.com/)  "crushes malware so you are protected and your machine keeps running smoothly."
-- [HitmanPro](https://www.hitmanpro.com) Antivirus product from Sophos
-- [VirusTotal](https://www.virustotal.com/) Web service for scanning files and URLs for viruses
-- [How to remove viruses and malware on your Windows PC](https://www.howtogeek.com/126911/what-to-do-if-you-get-a-virus-on-your-computer/) Helpful HowToGeek article on cleaning out the pipes
+- [MalwareBytes](https://www.malwarebytes.com/) - "Crushes malware so you are protected and your machine keeps running smoothly."
+- [HitmanPro](https://www.hitmanpro.com) - Antivirus product from Sophos.
+- [VirusTotal](https://www.virustotal.com/) - Web service for scanning files and URLs for viruses.
+- [How to remove viruses and malware on your Windows PC](https://www.howtogeek.com/126911/what-to-do-if-you-get-a-virus-on-your-computer/) - Helpful HowToGeek article on cleaning out the pipes.
 
 ## Anonymous web browsing
 
@@ -67,24 +67,24 @@ Hide your IP address
 
 ### VPN Guides and Tutorials
 
-- [That One Privacy Site](https://thatoneprivacysite.net/) VPN section of That One Privacy Site with VPN comparisons
-- [Choosing the best VPN (for you)](https://www.reddit.com/r/VPN/comments/4iho8e/that_one_privacy_guys_guide_to_choosing_the_best/?st=iu9u47u7&sh=459a76f2) That One Privacy Guy's - Guide to Choosing the Best VPN (for you)
-- [/r/VPN wiki](https://www.reddit.com/r/VPN/wiki/index) Helpful FAQ-type resource composed by the folks at /r/VPN
-- [Choosing the VPN that's right for you](https://ssd.eff.org/en/module/choosing-vpn-thats-right-you) Helpful guide from the EFF
-- [Which VPN services keep you anonymous in 2018?](https://torrentfreak.com/vpn-services-keep-anonymous-2018/) TorrentFreak Article by Ernesto
+- [That One Privacy Site](https://thatoneprivacysite.net/) - VPN section of That One Privacy Site with VPN comparisons.
+- [Choosing the best VPN (for you)](https://www.reddit.com/r/VPN/comments/4iho8e/that_one_privacy_guys_guide_to_choosing_the_best/?st=iu9u47u7&sh=459a76f2) That One Privacy Guy's - Guide to Choosing the Best VPN (for you).
+- [/r/VPN wiki](https://www.reddit.com/r/VPN/wiki/index) - Helpful FAQ-type resource composed by the folks at /r/VPN.
+- [Choosing the VPN that's right for you](https://ssd.eff.org/en/module/choosing-vpn-thats-right-you) - Helpful guide from the EFF.
+- [Which VPN services keep you anonymous in 2018?](https://torrentfreak.com/vpn-services-keep-anonymous-2018/) - TorrentFreak Article by Ernesto.
 - [privacytools.io](https://www.privacytools.io/) "Encryption against global mass surveillance". Plenty of information to help protect your privacy online.
-- [VPN over SSH](https://wiki.archlinux.org/index.php/VPN_over_SSH) ArchWiki page describing how to achieve a poor man's VPN with SSH tunneling
-- [/r/VPNTorrents](https://www.reddit.com/r/VPNTorrents) This is for the discussion of torrenting (and similar P2P protocols) using VPN type technology.
+- [VPN over SSH](https://wiki.archlinux.org/index.php/VPN_over_SSH) - ArchWiki page describing how to achieve a poor man's VPN with SSH tunneling.
+- [/r/VPNTorrents](https://www.reddit.com/r/VPNTorrents) - This is for the discussion of torrenting (and similar P2P protocols) using VPN type technology.
 - [VPN comparison](https://thatoneprivacysite.net/simple-vpn-comparison-chart/) - Comprehensive tool for comparing VPN services.
 
 ### Self-hosted VPNs
 
-- [Docker AWS VPN](https://gist.github.com/glennschler/63e3c3f93038cddb5204) - Guide for self hosting VPN on AWS with docker.
-- [DigitalOcean self hosted VPN](https://www.digitalocean.com/community/tutorials/how-to-set-up-an-openvpn-server-on-ubuntu-16-04) - Guide for self hosted VPN on Digital Ocean.
-- [Firezone](https://www.firezone.dev/) Self-hosted VPN server using WireGuard. Supports MFA, SSO, and has easy deployment options.
-- [n2n](https://github.com/ntop/n2n) Peer-to-peer VPN
-- [OpenVPN](https://openvpn.net/)  OpenVPN provides flexible VPN solutions to secure your data communications, whether it's for Internet privacy, remote access for employees, securing IoT, or for networking Cloud data centers.
-- [WireGuard VPN](https://www.wireguard.com/) WireGuard is an extremely simple yet fast and modern VPN that utilizes state-of-the-art cryptography. It aims to be faster, simpler, leaner, and more useful than IPSec.
+- [Docker AWS VPN](https://gist.github.com/glennschler/63e3c3f93038cddb5204) - Guide for self-hosting VPN on AWS with Docker.
+- [DigitalOcean self hosted VPN](https://www.digitalocean.com/community/tutorials/how-to-set-up-an-openvpn-server-on-ubuntu-16-04) - Guide for self-hosted VPN on Digital Ocean.
+- [Firezone](https://www.firezone.dev/) - Self-hosted VPN server using WireGuard. Supports MFA, SSO, and has easy deployment options.
+- [n2n](https://github.com/ntop/n2n) - Peer-to-peer VPN.
+- [OpenVPN](https://openvpn.net/) - OpenVPN provides flexible VPN solutions to secure your data communications, whether it's for Internet privacy, remote access for employees, securing IoT, or for networking Cloud data centers.
+- [WireGuard VPN](https://www.wireguard.com/) - WireGuard is an extremely simple yet fast and modern VPN that utilizes state-of-the-art cryptography. It aims to be faster, simpler, leaner, and more useful than IPSec.
 
 ### Mix networks (Tor, etc.)
 
@@ -109,7 +109,7 @@ Hide your IP address
 - [DuckDuckGo](https://duckduckgo.com) - Search engine that doesn't track you.
 - [Startpage](https://www.startpage.com/) - The world's most private search engine.
 - [Ahmia](https://ahmia.fi) - Tor search engine.
-- [Have I been pwned?](https://haveibeenpwned.com) - See if your email address has been found in a database hack.
+- [Have I been pwned?](https://haveibeenpwned.com) - See if your email address or password has been found in a database hack.
 
 ## Web browsers
 
@@ -117,7 +117,7 @@ Hide your IP address
 - [Epic browser](https://www.epicbrowser.com) - Privacy focused web browser.
 - [Net runner](https://netrunner.cc) - To cater to powerusers and meet the demands of 4chan's /g.
 - [Cliqz](https://cliqz.com) - Ad blocking and private search mobile web browser.
-- [Firefox](https://www.mozilla.org/en-US/firefox/new/) - Privacy-first web browser with lots of addons to further increase privacy
+- [Firefox](https://www.mozilla.org/en-US/firefox/new/) - Privacy-first web browser with lots of addons to further increase privacy.
 
 ### Extensions & plugins for web browsers
 
@@ -127,21 +127,21 @@ Hide your IP address
 - [Click&Clean](https://www.hotcleaner.com/clickclean_chrome.html) - Private data cleaner for Chrome and Firefox.
 - [Firefox Focus browser](https://www.mozilla.org/en-US/firefox/focus/) - Automatic ad blocking and tracking protection on iOS and Android.
 - [DNS service](https://1.1.1.1/) - Privacy-first consumer DNS service by Cloudflare.
-- [CanvasBlocker (FF)](https://addons.mozilla.org/en-US/firefox/addon/canvasblocker/) - Prevents fingerprinting in Firefox
-- [Cookie AutoDelete](https://addons.mozilla.org/en-US/firefox/addon/cookie-autodelete/) - Deletes unnused cookies on tab close
-- [Decentraleyes](https://decentraleyes.org/) Protects against tracking with a local CDN (Content Delivery Network) emulation.
-- [uBlock Origin](https://github.com/gorhill/uBlock)  An efficient blocker for Chromium and Firefox. Fast and lean.
-- [TamperMonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en) The world's most popular userscript manager
-- [WebRTC Network Limiter](https://chrome.google.com/webstore/detail/webrtc-network-limiter/npeicpdbkakmehahjeeohfdhnlpdklia?hl=en) Configures how WebRTC's network traffic is routed by changing Chrome's privacy settings.
-- [ScriptSafe](https://chrome.google.com/webstore/detail/scriptsafe/oiigbmnaadbkfbmpbfijlflahbdbdgdf?hl=en) A browser extension that gives users control of the web and more secure browsing while emphasizing simplicity and intuitiveness.
-- [NoScript](https://noscript.net/getit) Allow active content to run only from sites you trust, and protect yourself against XSS and clickjacking attacks. 
-- [Violentmonkey](https://violentmonkey.github.io/) An open-source userscript manager.
-- [Firefox Profilemaker](https://ffprofile.com/) - Creates privacy focused Firefox profiles
+- [CanvasBlocker (FF)](https://addons.mozilla.org/en-US/firefox/addon/canvasblocker/) - Prevents fingerprinting in Firefox.
+- [Cookie AutoDelete](https://addons.mozilla.org/en-US/firefox/addon/cookie-autodelete/) - Deletes unnused cookies on tab close.
+- [Decentraleyes](https://decentraleyes.org/) - Protects against tracking with a local CDN (Content Delivery Network) emulation.
+- [uBlock Origin](https://github.com/gorhill/uBlock) - An efficient and essential blocker for Chromium and Firefox. Fast, lean, and powerful.
+- [TamperMonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en) - The world's most popular userscript manager.
+- [WebRTC Network Limiter](https://chrome.google.com/webstore/detail/webrtc-network-limiter/npeicpdbkakmehahjeeohfdhnlpdklia?hl=en) - Configures how WebRTC's network traffic is routed by changing Chrome's privacy settings.
+- [ScriptSafe](https://chrome.google.com/webstore/detail/scriptsafe/oiigbmnaadbkfbmpbfijlflahbdbdgdf?hl=en) - A browser extension that gives users control of the web and more secure browsing while emphasizing simplicity and intuitiveness.
+- [NoScript](https://noscript.net/getit) - Allow active content to run only from sites you trust, and protect yourself against XSS and clickjacking attacks. 
+- [Violentmonkey](https://violentmonkey.github.io/) - An open-source userscript manager.
+- [Firefox Profilemaker](https://ffprofile.com/) - Creates privacy focused Firefox profiles that you can easily configure to match your needs and preferences.
 
 ### Userscripts
 
-- [AntiAdware](https://greasyfork.org/en/scripts/4294-antiadware) Remove forced download accelerators, managers, and adware on supported websites
-- [AdGuard Popup Blocker](https://github.com/AdguardTeam/PopupBlocker) Popup Blocker by AdGuard is a userscript that blocks all unwanted pop-up windows in different browsers.
+- [AntiAdware](https://greasyfork.org/en/scripts/4294-antiadware) - Remove forced download accelerators, managers, and adware on supported websites.
+- [AdGuard Popup Blocker](https://github.com/AdguardTeam/PopupBlocker) - Popup Blocker by AdGuard is a userscript that blocks all unwanted pop-up windows in different browsers.
 
 ## Host file optimizations
 
@@ -162,8 +162,8 @@ Hide your IP address
 
 - [Cherry](https://github.com/rafael-santiago/cherry) - A self-hosted webchat server that supports HTTPS.
 - [Signal](https://whispersystems.org/) - Free peer reviewed scalable encryption chat.
-- [Wire](https://wire.com) - End-to-end chats,calls and documents.
-- [Ricochet](https://ricochet.im/) - End-to-end serverless tor chat
+- [Wire](https://wire.com) - End-to-end chats, calls, and documents.
+- [Ricochet](https://ricochet.im/) - End-to-end serverless Tor chat
 
 ### Image
 
@@ -182,10 +182,10 @@ Hide your IP address
 - [Throw Away Mail](http://www.throwawaymail.com/) - Temporary email.
 - [AnonAddy](https://anonaddy.com) - Open-source anonymous email forwarding (with optional PGP encryption)
 - [ProtonMail](https://protonmail.com/) - Secure email based in Switzerland.
-- [Mailfence](https://mailfence.com) - Based in Belgium – 500 MB free; 20 GB Pro
-- [Tutanota](https://tutanota.com) - Based in Germany – 1 GB free; 10 GB Pro
-- [Mailbox.org](https://mailbox.org) - Based in Germany – 2 GB storage
-- [Mail-in-a-box](https://mailinabox.email/) - Host your own email on your own server
+- [Mailfence](https://mailfence.com) - Based in Belgium – 500 MB free; 20 GB Pro.
+- [Tutanota](https://tutanota.com) - Based in Germany – 1 GB free; 10 GB Pro.
+- [Mailbox.org](https://mailbox.org) - Based in Germany – 2 GB storage.
+- [Mail-in-a-box](https://mailinabox.email/) - Host your own email on your own server.
 
 ### Password managment
 
@@ -194,7 +194,7 @@ Hide your IP address
 - [Keepass](http://keepass.info/) - Open source password management.
 - [Passbolt](https://www.passbolt.com/) - Open source password management.
 - [PasswordStore](https://www.passwordstore.org/) - Open source password management using `gpg` to encrypt passwords.
-- [BitWarden](https://bitwarden.com) - Open source password management.
+- [BitWarden](https://bitwarden.com) - Open source password management with Cloud syncing.
 - [LessPass](https://lesspass.com/) - No sync password management
 - [Pass](https://www.passwordstore.org/) Simple GPG/Git password manager. Follows the Unix philosophy.
 
@@ -221,7 +221,7 @@ Hide your IP address
 - [Tresorit](https://tresorit.com) - Cloud back up protected by Swiss data protection laws (but hosted on Microsoft Azure) with client side encryption.
 - [SpiderOak](https://spideroak.com) - Cloud back up with client side decryption only.
 - [NextCloud](https://nextcloud.com) - Open source, self-hosted file share and communication platform based in Germany.
-- [Least Authority S4](https://leastauthority.com/) - think AWS S3 but with client-side encrypted
+- [Least Authority S4](https://leastauthority.com/) - think AWS S3 but with client-side encrypted.
 
 ## System utilities
 
@@ -234,17 +234,17 @@ Hide your IP address
 - [Do you need a vpn? (mozilla)](https://blog.mozilla.org/internetcitizen/2017/08/29/do-you-need-a-vpn/) - Guide to choosing a VPN provider.
 - [Firefox privacy guide](http://12bytes.org/tech/firefox/firefoxgecko-configuration-guide-for-privacy-and-performance-buffs) - Firefox Configuration Guide for Privacy Freaks and Performance Buffs.
 - [A Better Online Experience](https://web.archive.org/web/20180807021324/https://gacallea.github.io/posts/a-better-online-experience/) (archive.org link, original content down) - macOS & iOS privacy configurations for email, browsing, and more.
-- [Google alternatives](https://restoreprivacy.com/google-alternatives/) - Privacy focused alternaties to Google services.
-- [The Hitchhiker's Guide to Online Anonymity](https://anonymousplanet.org/index.html) - Guidance to creating (truly) anonymous identities
+- [Google alternatives](https://restoreprivacy.com/google-alternatives/) - Privacy-focused alternaties to Google services.
+- [The Hitchhiker's Guide to Online Anonymity](https://anonymousplanet.org/index.html) - Guidance to creating (truly) anonymous identities.
 
 ## Miscellaneous
 
-- [Pi-hole](https://pi-hole.net/) Pi-hole is a Linux network-level advertisement and internet tracker blocking application which acts as a DNS sinkhole
-- [Prism Break](https://prism-break.org/en/) Opt out of global data surveillance programs like PRISM, XKeyscore, and Tempora.
-- [/r/privacy](https://www.reddit.com/r/privacy/) The intersection of technology, privacy, and freedom in a digital world.
-- [Any Soft Keyboard](https://github.com/AnySoftKeyboard/AnySoftKeyboard) A privacy-focused keyboard
-- [PrivacyTools](https://www.privacytools.io/) Services, tools, and knowledge to protect your privacy against global mass surveillance
-- [switching.software](https://switching.software/) Ethical, easy-to-use and privacy-conscious alternatives to well-known software
+- [Pi-hole](https://pi-hole.net/) - Pi-hole is a Linux network-level advertisement and internet tracker blocking application which acts as a DNS sinkhole.
+- [Prism Break](https://prism-break.org/en/) - Opt out of global data surveillance programs like PRISM, XKeyscore, and Tempora.
+- [/r/privacy](https://www.reddit.com/r/privacy/) - The intersection of technology, privacy, and freedom in a digital world.
+- [Any Soft Keyboard](https://github.com/AnySoftKeyboard/AnySoftKeyboard) - A privacy-focused keyboard.
+- [PrivacyTools](https://www.privacytools.io/) - Services, tools, and knowledge to protect your privacy against global mass surveillance
+- [switching.software](https://switching.software/) - Ethical, easy-to-use and privacy-conscious alternatives to well-known software.
 
 
 ## Contribute
