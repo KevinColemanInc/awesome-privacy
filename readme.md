@@ -11,6 +11,8 @@
   - [Antivirus](#antivirus)
   - [Anonymous web browsing](#anonymous-web-browsing)
     - [Domain registration](#domain-registration)
+    - [VPN](#vpn)
+    - [Shadowsocks](#shadowsocks)
     - [VPN Guides and Tutorials](#vpn-guides-and-tutorials)
     - [Self-hosted VPNs](#self-hosted-vpns)
     - [Mix networks (Tor, etc.)](#mix-networks-tor-etc)
@@ -85,6 +87,14 @@ Hide your IP address
 - [n2n](https://github.com/ntop/n2n) - Peer-to-peer VPN.
 - [OpenVPN](https://openvpn.net/) - OpenVPN provides flexible VPN solutions to secure your data communications, whether it's for Internet privacy, remote access for employees, securing IoT, or for networking Cloud data centers.
 - [WireGuard VPN](https://www.wireguard.com/) - WireGuard is an extremely simple yet fast and modern VPN that utilizes state-of-the-art cryptography. It aims to be faster, simpler, leaner, and more useful than IPSec.
+
+### Shadowsocks
+
+- [Shadowsocks](https://shadowsocks.org/en/index.html) - Encrypted proxy project, used in mainland China to circumvent Internet censorship
+- Various plugins:
+  - [GoQuiet](https://github.com/cbeuw/GoQuiet) - Obfuscates traffic as normal HTTPS traffic through domain fronting
+  - [Cloak](https://github.com/cbeuw/Cloak) - Universal pluggable transport for Shadowsocks
+  - [v2ray-plugin](https://github.com/shadowsocks/v2ray-plugin) - A plugin that is based v2ray
 
 ### Mix networks (Tor, etc.)
 
