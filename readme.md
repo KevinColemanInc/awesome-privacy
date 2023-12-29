@@ -81,6 +81,7 @@ Hide your IP address
 
 - [Docker AWS VPN](https://gist.github.com/glennschler/63e3c3f93038cddb5204) - Guide for self-hosting VPN on AWS with Docker.
 - [DigitalOcean self hosted VPN](https://www.digitalocean.com/community/tutorials/how-to-set-up-an-openvpn-server-on-ubuntu-16-04) - Guide for self-hosted VPN on Digital Ocean.
+- [Firezone](https://www.firezone.dev/) - Self-hosted VPN server using WireGuard. Supports MFA, SSO, and has easy deployment options.
 - [n2n](https://github.com/ntop/n2n) - Peer-to-peer VPN.
 - [OpenVPN](https://openvpn.net/) - OpenVPN provides flexible VPN solutions to secure your data communications, whether it's for Internet privacy, remote access for employees, securing IoT, or for networking Cloud data centers.
 - [WireGuard VPN](https://www.wireguard.com/) - WireGuard is an extremely simple yet fast and modern VPN that utilizes state-of-the-art cryptography. It aims to be faster, simpler, leaner, and more useful than IPSec.
