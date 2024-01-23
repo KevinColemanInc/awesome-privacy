@@ -192,10 +192,11 @@ Hide your IP address
 - [Throw Away Mail](http://www.throwawaymail.com/) - Temporary email.
 - [AnonAddy](https://anonaddy.com) - Open-source anonymous email forwarding (with optional PGP encryption)
 - [ProtonMail](https://protonmail.com/) - Secure email based in Switzerland.
-- [Mailfence](https://mailfence.com) - Based in Belgium – 500 MB free; 20 GB Pro.
-- [Tutanota](https://tutanota.com) - Based in Germany – 1 GB free; 10 GB Pro.
-- [Mailbox.org](https://mailbox.org) - Based in Germany – 2 GB storage.
-- [Mail-in-a-box](https://mailinabox.email/) - Host your own email on your own server.
+- [Mailfence](https://mailfence.com) - Based in Belgium – 500 MB free; 20 GB Pro
+- [Tutanota](https://tutanota.com) - Based in Germany – 1 GB free; 10 GB Pro
+- [Mailbox.org](https://mailbox.org) - Based in Germany – 2 GB storage
+- [Mail-in-a-box](https://mailinabox.email/) - Host your own email on your own server
+- [Forward Email](https://forwardemail.net) (@forwardemail) - the only 100% open-source, encrypted, and privacy-focused email service.
 
 ### Password managment
 
