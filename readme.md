@@ -100,8 +100,9 @@ Hide your IP address
 
 - [Tor project](https://www.torproject.org) - Government grade anonymous web browsing.
 - [How to setup Tor relay](https://www.torproject.org/docs/tor-doc-relay.html.en) - Guide for setting up a Tor relay.
-- [Panoramix](https://panoramix-project.eu/) - Provide privacy via mix-networks (Tor alternative).``
+- [Panoramix](https://panoramix-project.eu/) - Provide privacy via mix-networks (Tor alternative).
 - [The Invisible Internet Project (I2P)](https://geti2p.net/en/) - Anonymous overlay network (Tor alternative).
+- [ZeroNet](https://zeronet.io) - Decentralized web-like network of peer-to-peer users.
 
 ### Http proxies
 
