@@ -197,6 +197,7 @@ Hide your IP address
 - [Mailbox.org](https://mailbox.org) - Based in Germany – 2 GB storage
 - [Mail-in-a-box](https://mailinabox.email/) - Host your own email on your own server
 - [Forward Email](https://forwardemail.net) (@forwardemail) - the only 100% open-source, encrypted, and privacy-focused email service.
+- [Nubo Email](https://nubo.email) - Privacy-first email platform built on JMAP. Email, calendar, drive, video, chat. Based in India – GDPR + DPDP compliant.
 
 ### Password managment
 
