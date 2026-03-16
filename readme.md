@@ -223,6 +223,7 @@ Hide your IP address
 - [List of cryptocurrencies (wikipedia)](https://en.wikipedia.org/wiki/List_of_cryptocurrencies)
 - [Over the counter btc](https://bitcoin-otc.com/) - Marketplace for people to conduct over-the-counter trading in bitcoin currency.
 - [CoinJoin](https://en.bitcoin.it/wiki/CoinJoin) - Bitcoin transaction compression which aims to improve privacy.
+- [Haveno](https://havenodex.com/) - Peer-to-peer cryptocurrency exchange for Monero with multisig escrow and decentralized arbitration.
 
 ## File hosting
 
