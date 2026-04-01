@@ -37,6 +37,7 @@
   - [System utilities](#system-utilities)
     - [Command line tools](#command-line-tools)
   - [Blogs](#blogs)
+  - [Health & Fitness](#health--fitness)
   - [Miscellaneous](#miscellaneous)
   - [Contribute](#contribute)
   - [License](#license)
@@ -247,6 +248,10 @@ Hide your IP address
 - [A Better Online Experience](https://web.archive.org/web/20180807021324/https://gacallea.github.io/posts/a-better-online-experience/) (archive.org link, original content down) - macOS & iOS privacy configurations for email, browsing, and more.
 - [Google alternatives](https://restoreprivacy.com/google-alternatives/) - Privacy-focused alternaties to Google services.
 - [The Hitchhiker's Guide to Online Anonymity](https://anonymousplanet.org/index.html) - Guidance to creating (truly) anonymous identities.
+
+## Health & Fitness
+
+- [Pilgrim](https://github.com/walktalkmeditate/pilgrim-ios) - Privacy-first walking and meditation companion for iOS. No accounts, no analytics, no cloud, no telemetry — all data stays on-device. Features on-device voice transcription via WhisperKit (Apple Silicon ML). Free and open source (GPLv3). [App Store](https://apps.apple.com/app/pilgrim-mindful-walking/id6760921056)
 
 ## Miscellaneous
 
