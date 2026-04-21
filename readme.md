@@ -113,6 +113,9 @@ Hide your IP address
 - [EFF browser privacy test](https://panopticlick.eff.org/tracker) - Test privacy settings of your web browser.
 - [Privacy checkup](https://ipinfo.info/html/privacy-check.php) - Test privacy / trackability of your web browser.
 - [Privacy test by Tenta](https://tenta.com/test/) - Test privacy settings on browser.
+- [SnitchTest](https://snitchtest.com/) - Forensic browser audit covering WebRTC local-IP leaks, canvas/audio/WebGL fingerprint hashes, TLS JA3/JA4 signature, installed fonts, timezone/language mismatch, and hardware fingerprints. 18 client-side tests; nothing logged server-side.
+- [Pi-Hole Killer](https://piholekiller.com/) - Adversarial ad-blocker test: fires 103 real ad, tracker, fingerprinter, DoH-bypass, and malware-domain requests across 3 difficulty tiers and scores what your Pi-Hole, uBlock, AdGuard, or NextDNS actually caught.
+- [AdBloat](https://adbloat.com/) - Ad-tech overhead benchmark: loads 46 real tracker endpoints and measures the bytes, hostnames, and TLS handshakes still reaching your browser despite your defenses. A-F grade against a naked-Chromium baseline.
 
 ## Search engines
 
