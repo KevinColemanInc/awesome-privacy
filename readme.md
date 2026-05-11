@@ -178,6 +178,7 @@ Hide your IP address
 ### Image
 
   - [ExifCleaner](https://exifcleaner.com/) - Open source app to remove exif metadata from images.
+  - [IDPhotoSnap](https://idphotosnap.com/) - Free, browser-only passport photo maker. All image processing runs client-side via WebAssembly (face-api.js + BRIA RMBG-1.4). Photo never reaches a server, verifiable in DevTools. 89 countries, 226 document formats. [Open dataset](https://github.com/whitetirocket/passport-photo-specs) under MIT license.
 
 ### Video
 
