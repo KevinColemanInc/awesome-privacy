@@ -254,6 +254,7 @@ Hide your IP address
 - [Prism Break](https://prism-break.org/en/) - Opt out of global data surveillance programs like PRISM, XKeyscore, and Tempora.
 - [/r/privacy](https://www.reddit.com/r/privacy/) - The intersection of technology, privacy, and freedom in a digital world.
 - [Any Soft Keyboard](https://github.com/AnySoftKeyboard/AnySoftKeyboard) - A privacy-focused keyboard.
+- [LogZero](https://logzero.app) - Private, on-device personal life & habit tracker for iOS (mood, food, exercise, and more) with no accounts, ads, or telemetry.
 - [PrivacyTools](https://www.privacytools.io/) - Services, tools, and knowledge to protect your privacy against global mass surveillance
 - [switching.software](https://switching.software/) - Ethical, easy-to-use and privacy-conscious alternatives to well-known software.
 
