@@ -265,3 +265,7 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 ## License
 
 [![License: CC BY-NC-SA 4.0](https://licensebuttons.net/l/by-nc-sa/4.0/80x15.png)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+
+## See also
+
+- [local-face-photo-search](https://github.com/ethan1819/face_search) — 100% on-device face photo search. No photos, embeddings, or query results leave the user machine.
