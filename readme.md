@@ -178,6 +178,7 @@ Hide your IP address
 ### Image
 
   - [ExifCleaner](https://exifcleaner.com/) - Open source app to remove exif metadata from images.
+  - [MetadataRemover.ai](https://metadataremover.ai/) - Open-source browser app to inspect and remove supported image metadata locally without uploads or an account.
 
 ### Video
 
