@@ -190,6 +190,7 @@ Hide your IP address
 - [Yopmail](http://www.yopmail.com/en/email-generator.php) - Temporary email.
 - [Mailinator](https://www.mailinator.com/) - Temporary email.
 - [Throw Away Mail](http://www.throwawaymail.com/) - Temporary email.
+- [Mailfo](https://mailfo.pages.dev) - Fast disposable temporary email and OTP verification inbox generator for Android & Web.
 - [AnonAddy](https://anonaddy.com) - Open-source anonymous email forwarding (with optional PGP encryption)
 - [ProtonMail](https://protonmail.com/) - Secure email based in Switzerland.
 - [Mailfence](https://mailfence.com) - Based in Belgium – 500 MB free; 20 GB Pro
