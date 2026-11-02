@@ -174,6 +174,7 @@ Hide your IP address
 - [Signal](https://whispersystems.org/) - Free peer reviewed scalable encryption chat.
 - [Wire](https://wire.com) - End-to-end chats, calls, and documents.
 - [Ricochet](https://ricochet.im/) - End-to-end serverless Tor chat
+- [Zukka](https://zukka.app/us/) - Encrypted Android messenger that stores no message history on the device, using split-key encryption and disposable invite codes without requiring a phone number or email ([Google Play](https://play.google.com/store/apps/details?id=com.zukka.app&gl=us)).
 
 ### Image
 
