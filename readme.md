@@ -247,6 +247,7 @@ Hide your IP address
 - [A Better Online Experience](https://web.archive.org/web/20180807021324/https://gacallea.github.io/posts/a-better-online-experience/) (archive.org link, original content down) - macOS & iOS privacy configurations for email, browsing, and more.
 - [Google alternatives](https://restoreprivacy.com/google-alternatives/) - Privacy-focused alternaties to Google services.
 - [The Hitchhiker's Guide to Online Anonymity](https://anonymousplanet.org/index.html) - Guidance to creating (truly) anonymous identities.
+- [Open Source Analytics](https://opensource-analytics.com) - Editorial guides and comparisons of privacy-friendly, self-hosted and open-source web analytics for production use.
 
 ## Miscellaneous
 
