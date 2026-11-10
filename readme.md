@@ -239,6 +239,7 @@ Hide your IP address
 ### Command line tools
 
 - [lethe](https://github.com/rafael-santiago/lethe) - A cross-platform data wiping tool that implements data destruction suggestions given by Bruce Schneier in his book ``Applied Cryptography``.
+- [iotaudit](https://github.com/emirmrkaljevic/iotaudit) - Local, consent-first audit of what your own smart home devices send over the network, with a one-page report and A-F grades.
 
 ## Blogs
 
