@@ -11,13 +11,17 @@
   - [Antivirus](#antivirus)
   - [Anonymous web browsing](#anonymous-web-browsing)
     - [Domain registration](#domain-registration)
-    - [VPN](#vpn)
-    - [Shadowsocks](#shadowsocks)
+    - [VPN providers](#vpn-providers)
     - [VPN Guides and Tutorials](#vpn-guides-and-tutorials)
     - [Self-hosted VPNs](#self-hosted-vpns)
+    - [Shadowsocks](#shadowsocks)
     - [Mix networks (Tor, etc.)](#mix-networks-tor-etc)
     - [Http proxies](#http-proxies)
     - [Browser testing](#browser-testing)
+  - [Network privacy](#network-privacy)
+    - [Router and firewall operating systems](#router-and-firewall-operating-systems)
+    - [DNS resolvers](#dns-resolvers)
+    - [DNS-based blocking](#dns-based-blocking)
   - [Search engines](#search-engines)
   - [Web browsers](#web-browsers)
     - [Extensions & plugins for web browsers](#extensions--plugins-for-web-browsers)
@@ -67,6 +71,10 @@ Hide your IP address
 
 - [njal.la](https://njal.la/) - Anonymous domain registration by the founder of thepiratebay.
 
+### VPN providers
+
+- [Mullvad VPN](https://mullvad.net/) - Paid VPN service that uses an account number in place of an email address.
+
 ### VPN Guides and Tutorials
 
 - [That One Privacy Site](https://thatoneprivacysite.net/) - VPN section of That One Privacy Site with VPN comparisons.
@@ -113,6 +121,24 @@ Hide your IP address
 - [EFF browser privacy test](https://panopticlick.eff.org/tracker) - Test privacy settings of your web browser.
 - [Privacy checkup](https://ipinfo.info/html/privacy-check.php) - Test privacy / trackability of your web browser.
 - [Privacy test by Tenta](https://tenta.com/test/) - Test privacy settings on browser.
+
+## Network privacy
+
+See [Trustworthy Technology’s Networking overview](https://trustworthy.technology/status.html#networking) for background.
+
+### Router and firewall operating systems
+
+- [OpenWrt](https://openwrt.org/) - Open-source Linux operating system for supported routers and other embedded devices.
+- [pfSense](https://www.pfsense.org/) - FreeBSD-based firewall and router software.
+
+### DNS resolvers
+
+- [Quad9](https://quad9.net/) - Nonprofit public DNS resolver with encrypted DNS support and a service that blocks known malicious domains.
+
+### DNS-based blocking
+
+- [AdGuard Home](https://adguard.com/en/adguard-home/overview.html) - Self-hosted DNS server that blocks ads and trackers across a network.
+- [Pi-hole](https://pi-hole.net/) - Self-hosted DNS filtering for ads and trackers across a network.
 
 ## Search engines
 
@@ -170,6 +196,7 @@ Hide your IP address
 
 ### Chat
 
+- [Matrix](https://matrix.org/) - Open protocol for decentralized messaging with multiple clients and homeserver implementations.
 - [Cherry](https://github.com/rafael-santiago/cherry) - A self-hosted webchat server that supports HTTPS.
 - [Signal](https://whispersystems.org/) - Free peer reviewed scalable encryption chat.
 - [Wire](https://wire.com) - End-to-end chats, calls, and documents.
@@ -181,7 +208,8 @@ Hide your IP address
 
 ### Video
 
-- [jitsi](https://jitsi.org/) - Secure open source video conferencing.
+- [Jami](https://jami.net/) - Open-source, peer-to-peer voice and video calling with end-to-end encryption.
+- [Jitsi Meet](https://jitsi.org/) - Open-source video conferencing that can be self-hosted. On the public instance, hosts [need an account to start a meeting](https://jitsi.org/security/) and guests can join without one.
 
 ### Email
 
@@ -250,7 +278,6 @@ Hide your IP address
 
 ## Miscellaneous
 
-- [Pi-hole](https://pi-hole.net/) - Pi-hole is a Linux network-level advertisement and internet tracker blocking application which acts as a DNS sinkhole.
 - [Prism Break](https://prism-break.org/en/) - Opt out of global data surveillance programs like PRISM, XKeyscore, and Tempora.
 - [/r/privacy](https://www.reddit.com/r/privacy/) - The intersection of technology, privacy, and freedom in a digital world.
 - [Any Soft Keyboard](https://github.com/AnySoftKeyboard/AnySoftKeyboard) - A privacy-focused keyboard.
