@@ -283,6 +283,7 @@ See [Trustworthy Technology’s Networking overview](https://trustworthy.technol
 - [Any Soft Keyboard](https://github.com/AnySoftKeyboard/AnySoftKeyboard) - A privacy-focused keyboard.
 - [PrivacyTools](https://www.privacytools.io/) - Services, tools, and knowledge to protect your privacy against global mass surveillance
 - [switching.software](https://switching.software/) - Ethical, easy-to-use and privacy-conscious alternatives to well-known software.
+- [PDFNova Desk](https://pdfnova-desk.pages.dev/) - Merge, split, compress and reorder PDF files in the browser; files are processed locally and never uploaded. Free, no sign-up.
 
 
 ## Contribute
