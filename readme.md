@@ -267,6 +267,7 @@ See [Trustworthy Technology’s Networking overview](https://trustworthy.technol
 ### Command line tools
 
 - [lethe](https://github.com/rafael-santiago/lethe) - A cross-platform data wiping tool that implements data destruction suggestions given by Bruce Schneier in his book ``Applied Cryptography``.
+- [kwangmyong](https://github.com/kanywst/kwangmyong) - Finds your name, login, email, hostname and home paths in git repositories and on GitHub.
 
 ## Blogs
 
