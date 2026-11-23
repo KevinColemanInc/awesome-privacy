@@ -283,6 +283,7 @@ See [Trustworthy Technology’s Networking overview](https://trustworthy.technol
 - [Any Soft Keyboard](https://github.com/AnySoftKeyboard/AnySoftKeyboard) - A privacy-focused keyboard.
 - [PrivacyTools](https://www.privacytools.io/) - Services, tools, and knowledge to protect your privacy against global mass surveillance
 - [switching.software](https://switching.software/) - Ethical, easy-to-use and privacy-conscious alternatives to well-known software.
+- [XChat Directory](https://xchat.directory) - Side-by-side comparison of encrypted messengers (Signal, Session, SimpleX, Element, and more).
 
 
 ## Contribute
