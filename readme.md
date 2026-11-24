@@ -267,6 +267,7 @@ See [Trustworthy Technology’s Networking overview](https://trustworthy.technol
 ### Command line tools
 
 - [lethe](https://github.com/rafael-santiago/lethe) - A cross-platform data wiping tool that implements data destruction suggestions given by Bruce Schneier in his book ``Applied Cryptography``.
+- [sunasty-har-sanitizer](https://github.com/bsulyan/sunasty-har-sanitizer) - Zero-dependency MIT CLI and library that reconstructs HAR 1.2 network traces without cookies, auth headers, query strings, or server IPs.
 
 ## Blogs
 
