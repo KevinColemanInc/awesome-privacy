@@ -121,6 +121,7 @@ Hide your IP address
 - [EFF browser privacy test](https://panopticlick.eff.org/tracker) - Test privacy settings of your web browser.
 - [Privacy checkup](https://ipinfo.info/html/privacy-check.php) - Test privacy / trackability of your web browser.
 - [Privacy test by Tenta](https://tenta.com/test/) - Test privacy settings on browser.
+- [WebRTC leak test by MyIPScan](https://myipscan.net/tools/webrtc-leak-test) - Check whether WebRTC exposes your real public or local IP address while a VPN is on.
 
 ## Network privacy
 
