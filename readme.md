@@ -173,6 +173,7 @@ See [Trustworthy Technology’s Networking overview](https://trustworthy.technol
 - [NoScript](https://noscript.net/getit) - Allow active content to run only from sites you trust, and protect yourself against XSS and clickjacking attacks. 
 - [Violentmonkey](https://violentmonkey.github.io/) - An open-source userscript manager.
 - [Firefox Profilemaker](https://ffprofile.com/) - Creates privacy focused Firefox profiles that you can easily configure to match your needs and preferences.
+- [Sitefence](https://lukaslabs.top/sitefence) - Privacy-first Chrome website, URL path, and keyword blocker with up to 2,000 blocked sites free, schedules, Pomodoro timer, and zero network requests on Free.
 
 ### Userscripts
 
@@ -183,6 +184,7 @@ See [Trustworthy Technology’s Networking overview](https://trustworthy.technol
 
 - [How to make the internet not suck (as much)](http://someonewhocares.org/hosts/) - Block domains at host file level for faster more private web browsing.
 - [Hosts (GitHub project)](https://github.com/StevenBlack/hosts) - List of malicious domains to block in host file.
+- [Hosts File Website Blocker Generator](https://github.com/oneguo-boop/hosts-file-website-blocker-generator) - Single-file MIT offline generator for IPv4 (`0.0.0.0`) and IPv6 (`::`) hosts-file blocklists with `www.`/mobile variants and OS DNS flush commands.
 
 ## Linux distros
 
