@@ -218,6 +218,7 @@ See [Trustworthy Technology’s Networking overview](https://trustworthy.technol
 - [Yopmail](http://www.yopmail.com/en/email-generator.php) - Temporary email.
 - [Mailinator](https://www.mailinator.com/) - Temporary email.
 - [Throw Away Mail](http://www.throwawaymail.com/) - Temporary email.
+- [Tempboxy](https://tempboxy.com/) - Temporary email (.com and .edu.pl) with automatic OTP extraction, tracking-pixel blocking, and optional client-side AES-256 inbox lock.
 - [AnonAddy](https://anonaddy.com) - Open-source anonymous email forwarding (with optional PGP encryption)
 - [ProtonMail](https://protonmail.com/) - Secure email based in Switzerland.
 - [Mailfence](https://mailfence.com) - Based in Belgium – 500 MB free; 20 GB Pro
