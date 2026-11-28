@@ -74,6 +74,7 @@ Hide your IP address
 ### VPN providers
 
 - [Mullvad VPN](https://mullvad.net/) - Paid VPN service that uses an account number in place of an email address.
+- [Party VPN](https://partyvpn.com) - Paid VPN billed by the connected hour in cryptocurrency, Monero included, with a WireGuard or AmneziaWG config for each device.
 
 ### VPN Guides and Tutorials
 
